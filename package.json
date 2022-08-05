@@ -1,0 +1,11 @@
+{
+  "name": "fn",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "fn.js",
+  "scripts": {
+    "test": "run fn"
+  },
+  "author": "janud",
+  "license": "ISC"
+}
